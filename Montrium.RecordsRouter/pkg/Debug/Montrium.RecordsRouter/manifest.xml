@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1cbf6df4-4d57-4528-8b8c-3a2854d8db27" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Montrium.RecordsRouter.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="Montrium.RecordsRouter_Listener\Feature.xml" />
+  </FeatureManifests>
+</Solution>

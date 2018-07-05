@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Feature Records Router Listener" Id="8f2ef3ce-c20f-4ffd-b8d2-06b1c08b2777" ReceiverAssembly="Montrium.RecordsRouter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=11514a9e57682de1" ReceiverClass="Montrium.RecordsRouter.Features.Listener.ListenerEventReceiver" Scope="Web" Title="Montrium.RecordsRouter Listener"></Feature>

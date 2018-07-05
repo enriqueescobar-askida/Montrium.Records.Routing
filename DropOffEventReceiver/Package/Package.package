@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="e58a0146-4b00-42a7-ab05-8f30453660f1" solutionId="e58a0146-4b00-42a7-ab05-8f30453660f1" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="DropOffEventReceiver">
+    <features>
+        <featureReference itemId="d1df5e3a-9ab5-47fe-9232-df9331a84ed5" />
+    </features>
+</package>

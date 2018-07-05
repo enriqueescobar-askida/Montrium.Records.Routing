@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="101">
+    <!--<Receiver>
+      <Name>EventReceiver1ItemAdding</Name>
+      <Type>ItemAdding</Type>
+      <Assembly>DropOffEventReceiver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=77a85f2903e6b3ce</Assembly>
+      <Class>DropOffEventReceiver.EventReceiver1.EventReceiver1</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>EventReceiver1ItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <Assembly>DropOffEventReceiver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=77a85f2903e6b3ce</Assembly>
+      <Class>DropOffEventReceiver.EventReceiver1.EventReceiver1</Class>
+      <SequenceNumber>10000</SequenceNumber>
+      <Synchronization>Synchronous</Synchronization>
+    </Receiver>-->
+    <Receiver>
+      <Name>EventReceiver1ItemUpdated</Name>
+      <Type>ItemUpdated</Type>
+      <Assembly>DropOffEventReceiver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=77a85f2903e6b3ce</Assembly>
+      <Class>DropOffEventReceiver.EventReceiver1.EventReceiver1</Class>
+      <SequenceNumber>10000</SequenceNumber>
+      <Synchronization>Synchronous</Synchronization>
+    </Receiver>
+
+  </Receivers>
+</Elements>

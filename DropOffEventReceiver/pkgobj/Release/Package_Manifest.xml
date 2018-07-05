@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e58a0146-4b00-42a7-ab05-8f30453660f1" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="DropOffEventReceiver.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="DropOffEventReceiver_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

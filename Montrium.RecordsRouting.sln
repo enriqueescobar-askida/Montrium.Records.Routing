@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Settings", "Settings", "{28DEB09C-7EC5-42FD-B287-3289DDD539AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropOffEventReceiver", "DropOffEventReceiver\DropOffEventReceiver.csproj", "{D9D62AFC-8F5D-42C8-BBCA-771344C5DC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.RCRouter", "Test.RCRouter\Test.RCRouter.csproj", "{618AEA5C-23DA-4E0A-9BC5-62E52902A1CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{75077BFD-073D-43E3-B824-A05A82BD0F55}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		Montrium.RecordsRouting.vsmdi = Montrium.RecordsRouting.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Montrium.RecordsRouting.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D62AFC-8F5D-42C8-BBCA-771344C5DC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D62AFC-8F5D-42C8-BBCA-771344C5DC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D62AFC-8F5D-42C8-BBCA-771344C5DC32}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D9D62AFC-8F5D-42C8-BBCA-771344C5DC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D62AFC-8F5D-42C8-BBCA-771344C5DC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D62AFC-8F5D-42C8-BBCA-771344C5DC32}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{618AEA5C-23DA-4E0A-9BC5-62E52902A1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618AEA5C-23DA-4E0A-9BC5-62E52902A1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618AEA5C-23DA-4E0A-9BC5-62E52902A1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618AEA5C-23DA-4E0A-9BC5-62E52902A1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618AEA5C-23DA-4E0A-9BC5-62E52902A1CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

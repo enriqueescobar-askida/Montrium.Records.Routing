@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="1cbf6df4-4d57-4528-8b8c-3a2854d8db27" solutionId="1cbf6df4-4d57-4528-8b8c-3a2854d8db27" resetWebServer="false" name="Montrium.RecordsRouter" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ed012d70-16e7-4df1-acf8-20a8865d9c5a" />
+  </features>
+</package>
